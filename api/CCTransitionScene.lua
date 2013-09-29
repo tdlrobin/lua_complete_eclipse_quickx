@@ -1,0 +1,4 @@
+-- @module CCTransitionScene
+
+-----------------------
+return nil

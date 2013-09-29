@@ -1,0 +1,4 @@
+-- @module CCTransitionProgress
+
+-----------------------
+return nil

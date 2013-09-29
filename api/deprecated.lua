@@ -1,0 +1,4 @@
+-- @module deprecated
+
+-----------------------
+return nil

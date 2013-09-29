@@ -1,0 +1,4 @@
+-- @module CCGridAction
+
+-----------------------
+return nil
